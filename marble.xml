@@ -18,9 +18,8 @@
     <project path="device/xiaomi/miuicamera-marble" name="device_xiaomi_miuicamera-marble" remote="pablo" revision="16" />
     <project path="vendor/xiaomi/miuicamera-marble" name="vendor_xiaomi_miuicamera-marble" remote="pablo" revision="16" />
 
-    <!-- Hardware -->
-    <remove-project name="android_hardware_xiaomi" />
-
+    <!-- Hardware 
+    remove-project name="android_hardware_xiaomi" -->
     <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="pablo" revision="lineage-23.0" />
 
     <!-- Dolby -->
