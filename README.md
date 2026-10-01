@@ -17,7 +17,7 @@ Before you begin, ensure your system meets the following requirements:
 2. Clone the local manifest repository:
 
     ```bash
-    git clone -b 16 https://github.com/aosp-pablo/device_manifest.git .repo/local_manifests
+    git clone -b 17 https://github.com/aosp-pablo/device_manifest.git .repo/local_manifests
     ```
 
 3. Sync device-specific sources:
